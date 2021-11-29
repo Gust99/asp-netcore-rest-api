@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\bin\Debug\netcoreapp3.1\VentasUcb.Core.deps.json
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\bin\Debug\netcoreapp3.1\VentasUcb.Core.dll
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\bin\Debug\netcoreapp3.1\VentasUcb.Core.pdb
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\obj\Debug\netcoreapp3.1\VentasUcb.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\obj\Debug\netcoreapp3.1\VentasUcb.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\obj\Debug\netcoreapp3.1\VentasUcb.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\obj\Debug\netcoreapp3.1\VentasUcb.Core.dll
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Core\obj\Debug\netcoreapp3.1\VentasUcb.Core.pdb

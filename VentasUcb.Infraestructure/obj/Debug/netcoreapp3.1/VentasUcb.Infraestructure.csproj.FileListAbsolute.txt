@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Infraestructure.deps.json
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Infraestructure.runtimeconfig.json
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Infraestructure.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Infraestructure.dll
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Infraestructure.pdb
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Core.dll
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\bin\Debug\netcoreapp3.1\VentasUcb.Core.pdb
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.dll
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.pdb
+C:\Users\Usuario\source\repos\VentasUcb\VentasUcb.Infraestructure\obj\Debug\netcoreapp3.1\VentasUcb.Infraestructure.genruntimeconfig.cache
